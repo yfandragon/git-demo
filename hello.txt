@@ -15,7 +15,7 @@ hello world git
 hello world git
 hello world git
 hello world git master ggggggg
-hello world git  hot-fix ggggggggggggg
+hgit@github.com:yfandragon/git-demo.gitello world git  hot-fix ggggggggggggg
 hello world git
 hello world git
 hello world git
